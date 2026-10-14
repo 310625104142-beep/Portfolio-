@@ -1,0 +1,6 @@
+{
+  "name": "Elena Vance - Full-Stack Portfolio & Architecture Engine",
+  "description": "Production full-stack personal portfolio showcasing real-time projects, full CRUD API, persistent database explorer, interactive sandbox demos, and deployment blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
